@@ -27,6 +27,8 @@
 	- 生成数独数据
 	 - [x] 判断某行哪些列是空列
 
+- 横版滚动背景游戏.sb2
+
 ```flow
 st=>start: 开始
 op=>operation: My Operation
